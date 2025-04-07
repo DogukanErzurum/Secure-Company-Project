@@ -2,12 +2,12 @@
 
 ## 1. Introduction
 
-This document outlines the design and implementation of a secure network system for Cytonn Innovation Ltd, a forward-thinking company specializing in providing innovative cloud solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
+This document outlines the design and implementation of a secure network system for Erzurum Innovation Ltd, a forward-thinking company specializing in providing innovative cloud solutions globally. The project focuses on creating a robust network infrastructure to support various departments within the organization while ensuring the security of sensitive data and resources.
 ![Secure Company Network Packet Tracer](https://github.com/user-attachments/assets/5b9f3ffb-bfd7-483a-9854-326a47192e00)
 
 ## 2. Case Study and Requirements
 
-Cytonn Innovation Ltd has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
+Erzurum Innovation Ltd has a workforce of 600 staff and is preparing to move to a new building with three floors. The building will host various departments, including Sales and Marketing, Human Resources, Finance, ICT, and a Server Room. The ICT department includes Software Developers, Cloud Engineers, Cybersecurity Engineers, Network Engineers, System Administrators, IT Support Specialists, Business Analysts, and Project Managers.
 Prior to the move, a new network service needs to be designed and implemented. The company aims to ensure robust security against internal and external threats by implementing a multi-layered security approach, including a firewall with distinct security zones: outside, inside, and DMZ.
 
 ## 3.Network Devices Description
@@ -16,7 +16,7 @@ Prior to the move, a new network service needs to be designed and implemented. T
 
 #### Cisco Adaptive Security Appliance (ASA) is a security device that combines firewall, VPN, and other network security services in a single platform. It provides advanced threat defense, intrusion prevention, and protects the network from attacks by monitoring, controlling, and filtering traffic. Key features include:
 
-####
+#### ![image](https://github.com/user-attachments/assets/ca71fd81-de27-499b-8d5d-54e0d147cf95)
 
 ```
 - Stateful packet inspection
@@ -233,4 +233,4 @@ After configuring the entire network, thorough testing was conducted to ensure p
 
 #
 
-The design and implementation of a secure network system for Cytonn Innovation Ltd is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape.
+The design and implementation of a secure network system for Erzurum Innovation Ltd is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape.
