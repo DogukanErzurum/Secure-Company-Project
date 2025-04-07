@@ -30,7 +30,8 @@ Prior to the move, a new network service needs to be designed and implemented. T
 
 #### Cisco Catalyst switches are enterprise-class switches designed for secure and scalable network access.
 
-####
+#### ![image](https://github.com/user-attachments/assets/d44c5f75-cced-4962-b9fa-5bc18ceec707) ![image](https://github.com/user-attachments/assets/544a5ce9-8ef1-43f0-a6a4-2563e3f18126)
+
 
 ```
 - Cisco Catalyst 3850: Stackable access switches with integrated wireless controller. Supports advanced features 
