@@ -154,13 +154,13 @@ internet access. This ensures reliable and high-speed connectivity for the organ
 
 ### Wireless LAN Controller (WLC)
 
-####
+#### ![image](https://github.com/user-attachments/assets/bac76ff5-2a1f-4a27-9878-d7ed027789f4)
 
 Each department was equipped with a Wireless Access Point (WAP) managed by a Wireless LAN Controller (WLC). This provided WiFi access for users and allowed centralized management and monitoring of wireless networks.
 
 ### VoIP: Deployment of IP Phones
 
-####
+#### ![image](https://github.com/user-attachments/assets/cf102348-f197-4fdc-8eaa-7232ab686c44)
 
 #### VoIP (Voice over IP) technology was implemented using IP phones to enable efficient voice communication over the IP network. This solution integrates voice services with the existing data network, reducing costs and simplifying management.
 
@@ -199,6 +199,7 @@ Inter-VLAN routing was enabled on multilayer switches to allow communication bet
 This setup ensures that departments can communicate with each other while maintaining network segmentation for security purposes.
 
 ### Core Switch: IP Assignment for Multilayer Switches
+![image](https://github.com/user-attachments/assets/71f7b8ee-adf5-4831-b6f0-de3681b11c8f)
 
 Multilayer switches in the core layer were assigned IP addresses to handle both Layer 2 switching and Layer 3 routing. These switches manage both local traffic and inter-VLAN routing.
 
@@ -223,6 +224,7 @@ OSPF (Open Shortest Path First) was selected as the routing protocol to efficien
 A Standard Access Control List (ACL) was created to allow secure remote access using SSH.This restricts remote access to specific IP addresses, enhancing security.
 
 ### Cisco ASA Firewall
+![image](https://github.com/user-attachments/assets/334cc721-2366-457e-92e2-b03d27610498)
 
 The Cisco ASA firewall was configured to secure the network by controlling incoming and outgoing traffic based on predefined security rules. It provides protection against external threats and ensures internal network segmentation.
 
@@ -232,6 +234,5 @@ After configuring the entire network, thorough testing was conducted to ensure p
 
 ### 6. Conclusion
 
-#
-
+# ![image](https://github.com/user-attachments/assets/e6027e05-1bfa-4a99-866c-bf84d2db921f)
 The design and implementation of a secure network system for Erzurum Innovation Ltd is critical to ensuring operational efficiency and safeguarding sensitive data. By employing a structured approach with robust security measures, the new network will support the company's growth and adaptability in the digital landscape.
